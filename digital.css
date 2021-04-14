@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+.main-container{
+    width: 100%;
+    margin: 20px 20px 20px 20px;
+    font-family: sans-serif;
+}
+.col{
+    width: 30%;
+    display: inline-block;
+    border: 2px solid #ccc;
+    text-align: center;
+    margin-bottom: 5px;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.day-time{
+  background: #fefefe;
+  color: #000;
+}
+
+.night-time{
+  background: #1f1f1f;
+  color: #fff;
+}
